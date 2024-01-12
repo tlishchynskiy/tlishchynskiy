@@ -4,7 +4,7 @@ Hi 👋
 I specialize in custom PHP & Laravel-based website development, I also work on personal projects that help me in my daily work. Perhaps one day I'll start sharing them for everyone to access. 🙂
 
 ### Here's my contribution stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tlishchynskiy&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tlishchynskiy&mode=weekly)](https://git.io/streak-stats)
 
 ### Contact me:
 <p align="left">
